@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "431508917954",
+    "project_id": "countries-be7f1",
+    "storage_bucket": "countries-be7f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431508917954:android:e612e1c217a54e103ff55b",
+        "android_client_info": {
+          "package_name": "com.example.dunya_ulkeleri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA2KiFnAP_00NDrK-pLRd4NUYNCtWUwC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431508917954:android:496033b5ae13bf003ff55b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA2KiFnAP_00NDrK-pLRd4NUYNCtWUwC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
